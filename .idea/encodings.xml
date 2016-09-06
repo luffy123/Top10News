@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/top10News/Constants.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/top10News/DemoAdapter.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/top10News/DemoFragment.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/top10News/DisplayUtil.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/top10News/GetMoreListView.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/top10News/GetMoreListViewFragment.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/top10News/ListViewAdapter.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/top10News/PTRApplication.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/top10News/WindmillDrawable.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/top10News/WindmillHeader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/top10News/adapter/DemoAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/top10News/application/PTRApplication.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/top10News/fragment/GetMoreListViewFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/top10News/fragment/TabFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/top10News/ui/header/WindmillDrawable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/top10News/ui/header/WindmillHeader.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/get_more_list_view_progressbar.xml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_empty_small.png" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/vertical_image_1.jpg" charset="GBK" />
@@ -20,8 +16,8 @@
     <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_demo_list.xml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_get_more_list_view.xml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/layout/get_more_list_view_foot.xml" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/layout_item_demo.xml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/layout/list_view_item.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/recycle_view_item.xml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/layout/windmill_header.xml" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>

@@ -3,7 +3,7 @@
     android:layout_height="match_parent"
     android:layout_width="match_parent">
 
-    <com.top10News.GetMoreListView
+    <com.top10News.ui.listview.GetMoreListView
         android:id="@+id/gmlv_main"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
